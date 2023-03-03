@@ -1,4 +1,4 @@
-# [Sponsorname] Contest
+# Canto Solo Audit by Ghoul.sol
 
 Unless otherwise discussed, this repo will be made public after contest completion, sponsor review, judging, and two-week issue mitigation window.
 
